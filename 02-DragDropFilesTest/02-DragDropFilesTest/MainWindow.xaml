@@ -22,7 +22,7 @@
             <ListBox 
             Name="listbox"
                 Margin="10"
-                Height="300"
+                Height="150"
                  Width="360"/>
 
         </StackPanel>

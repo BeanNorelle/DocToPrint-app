@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bean - Files\\Visual Test\\WPF\\02-DragDropFiles\\02-DragDropFilesTest\\02-DragDropFilesTest\\02-DragDropFilesTest.csproj",
+      "projectUniqueName": "D:\\Bean - Files\\Visual Test\\WPF\\DocToPrint - Project\\02-DragDropFilesTest\\02-DragDropFilesTest\\02-DragDropFilesTest.csproj",
       "projectName": "02-DragDropFilesTest",
-      "projectPath": "D:\\Bean - Files\\Visual Test\\WPF\\02-DragDropFiles\\02-DragDropFilesTest\\02-DragDropFilesTest\\02-DragDropFilesTest.csproj",
+      "projectPath": "D:\\Bean - Files\\Visual Test\\WPF\\DocToPrint - Project\\02-DragDropFilesTest\\02-DragDropFilesTest\\02-DragDropFilesTest.csproj",
       "packagesPath": "C:\\Users\\beans\\.nuget\\packages\\",
-      "outputPath": "D:\\Bean - Files\\Visual Test\\WPF\\02-DragDropFiles\\02-DragDropFilesTest\\02-DragDropFilesTest\\obj\\",
+      "outputPath": "D:\\Bean - Files\\Visual Test\\WPF\\DocToPrint - Project\\02-DragDropFilesTest\\02-DragDropFilesTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

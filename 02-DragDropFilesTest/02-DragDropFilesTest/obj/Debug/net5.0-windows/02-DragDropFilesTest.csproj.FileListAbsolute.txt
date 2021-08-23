@@ -20,3 +20,25 @@ D:\Bean - Files\Visual Test\WPF\02-DragDropFiles\02-DragDropFilesTest\02-DragDro
 D:\Bean - Files\Visual Test\WPF\02-DragDropFiles\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\ref\02-DragDropFilesTest.dll
 D:\Bean - Files\Visual Test\WPF\02-DragDropFiles\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.pdb
 D:\Bean - Files\Visual Test\WPF\02-DragDropFiles\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.genruntimeconfig.cache
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\App.g.cs
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest_MarkupCompile.cache
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest_MarkupCompile.lref
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.dll
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\ref\02-DragDropFilesTest.dll
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.pdb
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\02-DragDropFilesTest.exe
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\02-DragDropFilesTest.deps.json
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\02-DragDropFilesTest.runtimeconfig.json
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\02-DragDropFilesTest.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\02-DragDropFilesTest.dll
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\ref\02-DragDropFilesTest.dll
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\bin\Debug\net5.0-windows\02-DragDropFilesTest.pdb
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.g.resources
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\WPF\DocToPrint - Project\02-DragDropFilesTest\02-DragDropFilesTest\obj\Debug\net5.0-windows\02-DragDropFilesTest.genruntimeconfig.cache
