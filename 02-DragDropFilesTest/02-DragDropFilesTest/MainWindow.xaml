@@ -10,18 +10,22 @@
         Title="MainWindow" Height="420" Width="400">
     <Grid>
         <StackPanel Background="Wheat"
-                    Height="200"
-                    Width="380" Margin="10,10,10,210"
+                    Width="380" 
                     Name="ImagePanel"
                     Drop="ImagePanel_Drop"
-                    AllowDrop="True"></StackPanel>
+                    AllowDrop="True">
 
-        <RichTextBox 
-            
-            Name="richtext"
-            Height="140"
-            Width="380" Margin="10,227,10,53">
-            
-        </RichTextBox>
+        <Label Name="asd" Content="asd" Width="110"  
+               Panel.ZIndex="1"
+               Background="Red"
+               />
+            <ListBox 
+            Name="listbox"
+                Margin="10"
+                Height="300"
+                 Width="360"/>
+
+        </StackPanel>
+
     </Grid>
 </Window>

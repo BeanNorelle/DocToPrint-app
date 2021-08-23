@@ -31,11 +31,16 @@ namespace _02_DragDropFilesTest
             {
                 // Note that you can have more than one file.
                 string[] files = (string[])e.Data.GetData(DataFormats.FileDrop);
-                richtext.Document.Blocks.Clear();
-                richtext.Document.Blocks.Add(new Paragraph(new Run(files[0])));
+               // richtext.Document.Blocks.Clear();
+               // richtext.Document.Blocks.Add(new Paragraph(new Run(files[0])));
+
+                listbox.Items.Add(files[0]);
                 // Assuming you have one file that you care about, pass it off to whatever
                 // handling code you have defined.
                 //HandleFileOpen(files[0]);
+                asd.Content = listbox.Items.Count;
+
+                List<string> newfiles = listbox.Items;
             }
         }
 
